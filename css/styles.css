@@ -36,3 +36,9 @@ body {
 #home-section .fas {
   color: #008ed6;
 }
+#share-section .fas {
+  background: #333;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px;
+}
